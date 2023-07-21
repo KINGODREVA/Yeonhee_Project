@@ -23,6 +23,9 @@
 
 ![스크린샷, 2023-06-30 17-30-22](https://github.com/ajhwan/Yeonhee_Project/assets/129160008/c9d90c5d-27ec-45b1-b806-aa6a70ecf5c5)
 
+- DRGO - WC720
+
+![image](https://github.com/KINGODREVA/Yeonhee_Project/assets/129159391/fa9a6e68-4c1f-414a-9264-89d58f6fe212)
 
 
 ## 참고한 사이트
