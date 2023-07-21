@@ -31,4 +31,5 @@
 ## 참고한 사이트
 - https://github.com/huangdii/servingbot
 - https://docs.roas.co.kr/scout_mini.html#
+- https://github.com/agilexrobotics/scout_mini_omni_ros
 
